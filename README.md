@@ -1,1 +1,3 @@
-Meu primeiro sistema no git curso  B7WEB. 
+Meu primeiro sistema no git curso  B7WEB.
+
+Usando o git 
